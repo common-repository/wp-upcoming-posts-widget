@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-upcoming-posts-widget\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-upcoming-posts-widget\n"
+"POT-Creation-Date: 2013-01-06 15:44:53+00:00\n"
+"PO-Revision-Date: 2013-01-06 23:47+0800\n"
+"Last-Translator: Dallas Lu <i@luda.me>\n"
+"Language-Team: Dallas Lu <i@luda.me>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: WP_Widget_Upcoming_Posts.php:8
+msgid "The upcoming posts on your site"
+msgstr "站点中的预定发布文章"
+
+#: WP_Widget_Upcoming_Posts.php:9 WP_Widget_Upcoming_Posts.php:34
+msgid "Upcoming Posts"
+msgstr "即将发布"
+
+#: WP_Widget_Upcoming_Posts.php:80
+msgid "Title:"
+msgstr "标题"
+
+#: WP_Widget_Upcoming_Posts.php:83
+msgid "Number of posts to show:"
+msgstr "显示文章数"
+
+#. Plugin Name of the plugin/theme
+msgid "Upcoming posts widget"
+msgstr "即将发布小工具"
+
+#. Plugin URI of the plugin/theme
+msgid "https://dallaslu.com/wordpress-upcoming-posts-widget/"
+msgstr "https://dallaslu.com/wordpress-upcoming-posts-widget/"
+
+#. Description of the plugin/theme
+msgid "List the upcoming posts on your WordPress as a widget."
+msgstr "在小工具中显示预定发布文章"
+
+#. Author of the plugin/theme
+msgid "Dallas Lu"
+msgstr "卢达"
+
+#. Author URI of the plugin/theme
+msgid "https://dallaslu.com/"
+msgstr "https://dallaslu.com/"
